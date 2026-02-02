@@ -1,0 +1,2 @@
+# Requires: circular-unlikelihood
+# (Not available on PyPI)
